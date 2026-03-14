@@ -8,7 +8,7 @@
 
 /* ===== PANEL ===== */
 window#waybar {
-  background: rgba(10, 10, 10, 1);
+  background: rgba(0, 0, 0, 0.85);
   border-radius: 10px;
   color: #eaeaea;
   margin: 0;
@@ -59,4 +59,3 @@ tooltip {
   padding: 8px 10px;
   border-radius: 0;
 }
-
