@@ -3,8 +3,8 @@
   "position": "top",
   "height": 25,
   "margin-top": 5,
-  "margin-left": 15,
-  "margin-right": 15,
+  "margin-left": 230,
+  "margin-right": 230,
 
   "modules-left": [
     "custom/clock",
