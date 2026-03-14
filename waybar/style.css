@@ -24,7 +24,6 @@ window#waybar {
 #battery {
   padding: 4px 12px;
   margin: 0 6px 0 0;
-  background: alpha(@surface, 0.35);
   color: @secondary;
 }
 
